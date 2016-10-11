@@ -1,4 +1,4 @@
-# PIC-BASIC-PRO_Examples
+# PIC BASIC PRO Examples
 ***
 Practicas realizadas en Micro Code Studio y Pic Basic Pro (PBP). Son algunas parcticas que realice cuando me inciaba en el mundo de los PICs, si deseas saber mas a detalle de cada uno de los codigos aqui mostrados te invito a visitar [E&R by MrChuckuee] (http://mrchunckuee.blogspot.mx/p/microcode-studio-y-pic-basic-pro.html)
 ***
