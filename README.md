@@ -1,6 +1,6 @@
 # PIC BASIC PRO Examples
 ***
-Practicas realizadas en Micro Code Studio y Pic Basic Pro (PBP). Son algunas parcticas que realice cuando me inciaba en el mundo de los PICs, si deseas saber mas a detalle de cada uno de los codigos aqui mostrados te invito a visitar [E&R by MrChuckuee] (http://mrchunckuee.blogspot.mx/p/microcode-studio-y-pic-basic-pro.html)
+Algunos ejemplos que realice, cuando me iniciaba en el mundo de los PICs, usando MicroCodeStudio y Pic Basic Pro (PBP), si deseas saber a detalle cada uno de los codigos aqui mostrados, puedes checarlo en mi blog [E&R by MrChuckuee] (http://mrchunckuee.blogspot.mx/p/microcode-studio-y-pic-basic-pro.html)
 ***
 **Listado de material disponible:**
 - PBP_001: Alternar encendido de LEDs con PIC12F675 
