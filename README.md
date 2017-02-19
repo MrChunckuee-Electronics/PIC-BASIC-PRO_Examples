@@ -24,7 +24,7 @@ Algunos ejemplos que realice, cuando me iniciaba en el mundo de los PICs, usando
 Las publicaciones sobre BASIC se descontinuaron, ya que actualmente utilizo el lenguaje C, tanto en mi trabajo como en mis proyectos personales, así que los pocos ejemplos que aquí muestro son todos los que tengo.
 
 Puedes seguirme en:
-- [Blog](http://mrchunckuee.blogspot.com)
+- [Blogspot](http://mrchunckuee.blogspot.com)
 - [Facebook](https://www.facebook.com/ElectronicayRobotica)
 - [Twitter](https://twitter.com/MrChunckuee)
 - [GitHub](https://github.com/MrChunckuee)
