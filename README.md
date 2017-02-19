@@ -2,6 +2,10 @@
 ***
 Algunos ejemplos que realice, cuando me iniciaba en el mundo de los PICs, usando MicroCodeStudio y Pic Basic Pro (PBP), si deseas saber a detalle cada uno de los codigos aqui mostrados, puedes checarlo en mi blog [E&R by MrChuckuee] (http://mrchunckuee.blogspot.mx/p/microcode-studio-y-pic-basic-pro.html)
 
+<p align="center">
+  ![](https://1.bp.blogspot.com/-jkfp7pZdOUU/VKZlTDXkz9I/AAAAAAAACLE/ruRuEXZZ7Rc/s1600/microcode%2Bstudio.png)
+</p>
+
 ![](https://1.bp.blogspot.com/-jkfp7pZdOUU/VKZlTDXkz9I/AAAAAAAACLE/ruRuEXZZ7Rc/s1600/microcode%2Bstudio.png)
 
 ***
