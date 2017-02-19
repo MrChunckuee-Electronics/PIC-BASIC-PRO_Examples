@@ -22,3 +22,11 @@ Algunos ejemplos que realice, cuando me iniciaba en el mundo de los PICs, usando
 - PBP_013: Contador ascendente y descendente con PIC16F8A (De 0 a 99) 
 
 Las publicaciones sobre BASIC se descontinuaron, ya que actualmente utilizo el lenguaje C, tanto en mi trabajo como en mis proyectos personales, así que los pocos ejemplos que aquí muestro son todos los que tengo.
+
+Puedes seguirme en:
+- [Blog](http://mrchunckuee.blogspot.com)
+- [Facebook](https://www.facebook.com/ElectronicayRobotica)
+- [Twitter](https://twitter.com/MrChunckuee)
+- [GitHub](https://github.com/MrChunckuee)
+- [YouTube](https://www.youtube.com/user/mrchunckueepsr)
+- [Google+](https://plus.google.com/u/0/+PedroSanchez-MrChunckuee)
