@@ -20,5 +20,5 @@ CONTADOR_MAIN:
     DIGITO = DIGITO + 1 'Va incrementando uno a digito     
     pause 1000   'Espera un segundo y muestra el siguiente digito                
     if DIGITO = 10 then INICIO  'Si digito=10 reiniciara el conteo
-goto CONTADOR_MAIN   'Si es falso la condicion anterior sige incrementando
+GOTO CONTADOR_MAIN   'Si es falso la condicion anterior sige incrementando
 END 'Fin del programa 
