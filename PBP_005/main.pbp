@@ -14,7 +14,7 @@ TRISB = 0
 digito var Byte
 veces var Byte
 
-inicio:
+INICIO:
 	If PORTA.0 = 1 Then
 		For veces = 0 To 255
 			For digito = 0 To 33
@@ -61,5 +61,5 @@ inicio:
 	Endif
 	
 PORTB = 0
-Goto inicio
+Goto INICIO
 END
